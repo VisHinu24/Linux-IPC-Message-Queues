@@ -1,6 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-
+## Name : H Vishinu 
+## Reg.No : 212223220124
 # AIM:
 To write a C program that receives a message from message queue and display them
 
